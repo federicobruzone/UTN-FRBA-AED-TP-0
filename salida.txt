@@ -1,0 +1,7 @@
+/* Compilado y ejecutado en Dev C++ Versión 5.10 (creada el 20 de marzo de 2015) */
+
+Hola Mundo!
+
+--------------------------------
+Process exited after 0.01356 seconds with return value 0
+Presione una tecla para continuar . . .
